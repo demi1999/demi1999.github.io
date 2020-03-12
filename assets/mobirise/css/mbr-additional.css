@@ -709,6 +709,9 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rRXf1v7Pcj {
+  background-image: url("../../../assets/images/timg.gif");
+}
 .cid-rRXf1v7Pcj h1 {
   color: #616161;
 }
@@ -721,11 +724,16 @@ section.lazy-placeholder:after {
   font-style: italic;
 }
 .cid-rRXf1v7Pcj H3 {
-  color: #232323;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rRXf1v7Pcj H1 {
-  color: #000000;
+  color: #ffffff;
+}
+.cid-rRXf1v7Pcj .mbr-text,
+.cid-rRXf1v7Pcj .mbr-section-btn {
+  color: #073b4c;
+  text-align: left;
 }
 .cid-rSmPw0hiOh {
   padding-top: 90px;
@@ -787,30 +795,13 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-rRXhMSAqHB {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rT1B0GDSkm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-rRXhMSAqHB .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rRXhMSAqHB .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rRXhMSAqHB .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rRXhMSAqHB .mbr-text {
-    text-align: center;
-  }
+.cid-rT1B0GDSkm P {
+  color: #767676;
 }
 .cid-rRXj9uqa2u {
   padding-top: 0px;
